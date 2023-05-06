@@ -1,21 +1,21 @@
-### Hi there 👋<h2> I'm Santiago!</h2>
+### Hi there 👋<h2> Hola, soy Santiago!</h2>
  
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 Acerca de mi </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explorando tecnologias y adquiriendo diversos conocimientos.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Estudiando una Tecnicatura de desarrollo de aplicaciones informaticas.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Aprendiendo acerca del desarrollo de aplicaciones web.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Creativo, enfocado y siempre aprendiendo.
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Stack de Tecnologias</h3>
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Aprendiendo</h3>
 
 - 🔧 &nbsp; Angular | SQL | Firebase 
 
@@ -44,7 +44,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conectemos! </h3>
 
 <br>
 
