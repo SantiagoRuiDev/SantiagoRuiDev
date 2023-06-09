@@ -33,7 +33,7 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Angular | SQL | Firebase 
+- 🔧 &nbsp; Vue/Angular | SQL | Firebase 
 
 <hr>
 
