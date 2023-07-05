@@ -19,9 +19,9 @@
 
 
 
-- 💻 &nbsp; NodeJS 
+- 💻 &nbsp; NodeJS | PHP | SQL 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VueJS
 
 <!--
 - 🛢 &nbsp; MongoDB
@@ -33,7 +33,7 @@
 
 <h3>🛠 Aprendiendo</h3>
 
-- 🔧 &nbsp; Vue/Angular | SQL | Firebase 
+- 🔧 &nbsp; Mejorando dia a dia.
 
 <hr>
 
