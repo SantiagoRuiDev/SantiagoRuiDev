@@ -19,9 +19,9 @@
 
 
 
-- 💻 &nbsp; NodeJS | PHP | SQL 
+- 💻 &nbsp; NodeJS | PHP | SQL | MongoDB | Postman | Git
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VueJS
+- 🌐 &nbsp; VueJS | JavaScript | HTML/CSS | Boostrap
 
 <!--
 - 🛢 &nbsp; MongoDB
