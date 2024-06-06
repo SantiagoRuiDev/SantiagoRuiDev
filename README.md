@@ -19,16 +19,9 @@
 
 
 
-- 💻 &nbsp; NodeJS | PHP | SQL | MongoDB | Postman | Git
+- 💻 &nbsp; NodeJS | Express | PHP | SQL | MongoDB | Postman | Git
 
-- 🌐 &nbsp; VueJS | JavaScript | HTML/CSS | Boostrap
-
-<!--
-- 🛢 &nbsp; MongoDB
-- 🔧 &nbsp; Git | Postman
-- 🖥 &nbsp; Photoshop 
--->
-
+- 🌐 &nbsp; Angular | VueJS | JavaScript | TypeScript | HTML/CSS | Boostrap | TailwindCSS
 
 
 <h3>🛠 Aprendiendo</h3>
@@ -38,14 +31,12 @@
 <hr>
 
 
-
-
 <hr>
 
 
 
 <h3> 🤝🏻 Conectemos! </h3>
-
+<h4>www.santiagorui.xyz</h4>
 <br>
 
 
