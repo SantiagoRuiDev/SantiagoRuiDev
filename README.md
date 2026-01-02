@@ -1,53 +1,20 @@
-### Hi there 👋<h2> Hola, soy Santiago!</h2>
- 
-
-<h3> 👨🏻•💻 Acerca de mi </h3>
+## 👋 Hi i'm Santiago
+I am a proactive software developer focused on building high-quality, accessible digital solutions.
 
 
+* Open to consulting and advisory opportunities.
+* Let's connect on LinkedIn [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-rui)
 
-- 🤔 &nbsp; Explorando tecnologias y adquiriendo diversos conocimientos.
 
-- 🎓 &nbsp; Estudiando una Tecnicatura de desarrollo de aplicaciones informaticas.
-
-- 🌱 &nbsp; Aprendiendo acerca del desarrollo de aplicaciones web.
-
-- ✍️ &nbsp; Creativo, enfocado y siempre aprendiendo.
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,vue,vite,ts,express,nodejs,java,spring,mysql,mongodb,git,postman)](https://skillicons.dev)
 
 
 
-<h3>🛠 Stack de Tecnologias</h3>
+## 🎓 Academic Background
+* Associate Degree in Computer Applications Development (TUDAI - [Facultad de Exactas, UNICEN](https://exa.unicen.edu.ar/)) (2023-Current)
 
 
+## 🔥 Stats
 
-- 💻 &nbsp; NodeJS | Express | PHP | SQL | MongoDB | Postman | Git
-
-- 🌐 &nbsp; Angular | VueJS | JavaScript | TypeScript | HTML/CSS | Boostrap | TailwindCSS
-
-
-<h3>🛠 Aprendiendo</h3>
-
-- 🔧 &nbsp; Mejorando dia a dia.
-
-<hr>
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Conectemos! </h3>
-<h4>www.santiagorui.xyz</h4>
-<br>
-
-
-
-
-
-
-
-
-
-
-<hr>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SantiagoRuiDev&theme=dark)](https://git.io/streak-stats)
