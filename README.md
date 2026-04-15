@@ -1,13 +1,12 @@
 ## 👋 Hi i'm Santiago
-I am a proactive software developer focused on building high-quality, accessible digital solutions.
+I am a Full-Stack Software Developer with a primary focus on web technologies, specializing in **Vue** for frontend development and **JavaScript-based frameworks** for backend architecture. Beyond my core stack, I have experience working with **Java** and **Angular**, and I am actively involved in the Web3 space, specifically developing smart contracts and exploring cryptocurrency ecosystems.
 
 
 * Open to consulting and advisory opportunities.
-* Let's connect on LinkedIn [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-rui)
-
+* Open to research and contribution opportunities.
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,vue,vite,ts,express,nodejs,java,spring,mysql,mongodb,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,tailwind,ts,express,nest,nodejs,java,spring,solidity,mysql,mongodb,git,postman,figma)](https://skillicons.dev)
 
 
 
